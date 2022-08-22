@@ -16,4 +16,4 @@ The characters-to-morse-code translation used in this program are based off:
   - https://en.wikipedia.org/wiki/Morse_code#Letters,_numbers,_punctuation,_prosigns_for_Morse_code_and_non-Latin_variants
 
 
-- ### .--&nbsp;&nbsp;&nbsp;....&nbsp;&nbsp;&nbsp;.-&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;....&nbsp;&nbsp;&nbsp;.-&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;....&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;--.&nbsp;&nbsp;&nbsp;---&nbsp;&nbsp;&nbsp;-..&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.--&nbsp;&nbsp;&nbsp;.-.&nbsp;&nbsp;&nbsp;---&nbsp;&nbsp;&nbsp;..-&nbsp;&nbsp;&nbsp;--.&nbsp;&nbsp;&nbsp;....&nbsp;&nbsp;&nbsp;-
+### .--&nbsp;&nbsp;&nbsp;....&nbsp;&nbsp;&nbsp;.-&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;....&nbsp;&nbsp;&nbsp;.-&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;....&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;--.&nbsp;&nbsp;&nbsp;---&nbsp;&nbsp;&nbsp;-..&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.--&nbsp;&nbsp;&nbsp;.-.&nbsp;&nbsp;&nbsp;---&nbsp;&nbsp;&nbsp;..-&nbsp;&nbsp;&nbsp;--.&nbsp;&nbsp;&nbsp;....&nbsp;&nbsp;&nbsp;-
