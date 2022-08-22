@@ -2,22 +2,15 @@
 # Program goal: takes any string input and converts it to morse code
 
 # ---ADDITIONS CONSIDERED---
-# write program foreword using conventions from itu pdf, note on spacing: 7 spaces v slash marks
-# adjust letters to be consistent with itu pdf
-# potential scope creep: save case of morse code translated within this program.
-# optional decode/encode using slash marks in word spacing
+# add note on spacing: 7 spaces v slash marks
+# potential scope creep: save letter casing of morse code translated within this program.
+# optional decode/encode using slash marks inplace of word spacing
 # convert certain characters to similar other characters i.e. slanted quotes to quotation marks
 # multiline string decode/encode
 # simple gui
 # complex gui/app
 # use wikipedia ogg sound files to make actual audio morse code translations
 
-# ---BUGS: 0---
-# FIXED - issue with encoding this message: That'll do Donkey, that'll do.
-#   The problem was the text_to_morse module's for loop was using indexing improperly.
-#   This caused duplicate letters to be spaced improperly.
-
-# FIXED - issue with comma replacement I switched , with * since * is not in the character dict
 import text_to_morse as ttm
 import morse_to_text as mtt
 
