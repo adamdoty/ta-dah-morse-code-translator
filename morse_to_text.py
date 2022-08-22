@@ -16,21 +16,13 @@ def is_morse_code_convertible(morse_code: str) -> bool:
 
 
 def prepare_morse_code_to_convert(morse_code: str) -> list:
-    print(morse_code)
     morse_code = morse_code.replace(morse_code_elements['medium_gap'], '* *')
-    print(morse_code)
     morse_code = morse_code.replace(morse_code_elements['short_gap'], '*')
-    print(morse_code)
     ready_to_convert = morse_code.split("*")
     return ready_to_convert
 
 
 def convert_to_text(morse_code_to_convert: list) -> str:
-    # print(morse_code_to_convert)
     converted_letters = [morse_to_text_characters[character] for character in morse_code_to_convert]
     morse_code_message = ''.join(converted_letters)
     return morse_code_message
-
-a = prepare_morse_code_to_convert(".--.   -.--   -...   ..   -   .   ...       ..   ...       .-   --   .-   --..   ..   -.   --.   -.-.--")
-print(a)
-print(convert_to_text(a))

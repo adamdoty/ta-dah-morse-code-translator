@@ -2,7 +2,6 @@
 # Program goal: takes any string input and converts it to morse code
 
 # ---ADDITIONS CONSIDERED---
-# cite wikipedia, morse code pdf from itu
 # write program foreword using conventions from itu pdf, note on spacing: 7 spaces v slash marks
 # adjust letters to be consistent with itu pdf
 # potential scope creep: save case of morse code translated within this program.
