@@ -50,5 +50,3 @@ def convert_to_morse(text_to_convert: list) -> str:
     converted_letters = [text_to_morse_characters[character] for character in text_to_convert]
     morse_code_message = ''.join(converted_letters)
     return morse_code_message
-
-print(prepare_text_to_convert("Pybit es aghaehsd !"))
