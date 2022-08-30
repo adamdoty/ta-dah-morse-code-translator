@@ -7,8 +7,12 @@ authors = ["Adam Doty <acdoty15@gmail.com>"]
 [tool.poetry.dependencies]
 python = "^3.8"
 click = "^8.1.3"
+pytest = "^7.1.2"
 
 [tool.poetry.dev-dependencies]
+
+[tool.poetry.scripts]
+ta-dah-morse-code-translator = "ta_dah_morse_code_translator.console:main"
 
 [build-system]
 requires = ["poetry-core>=1.0.0"]
