@@ -11,8 +11,7 @@
 # complex gui/app
 # use wikipedia ogg sound files to make actual audio morse code translations
 
-import text_to_morse as ttm
-import morse_to_text as mtt
+from ta_dah_morse_code_translator import text_to_morse as ttm, morse_to_text as mtt
 
 is_program_running = True
 while is_program_running:
